@@ -23,6 +23,6 @@
         }
     },
     "require": {
-        "mdanter/ecc": "~5.0"
+        "mdanter/ecc": "^0.5.0"
     }
 }
